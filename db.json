@@ -1,14 +1,16 @@
 {
   "posts": [
-    { "id": 1, "title": "Timilehin" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "New Year Message" },
+    { "id": 2, "title": "Seminar Writings" },
+    { "id": 3, "title": "Project 2050" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "user_name": "7emmytim",
+    "email": "omotugbatimilehin7@gmail.com",
+    "password": "password"
   }
 }
