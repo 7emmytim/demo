@@ -1,8 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "New Year Message" },
-    { "id": 2, "title": "Seminar Writings" },
-    { "id": 3, "title": "Project 2050" }
+  "notes": [
+    { "title": "Note_1", "content": "Content_1", "category": "Uncategorized", "date": "Monday", "id": 1, "sorter": 1 },
+    { "title": "Note_2", "content": "Content_2", "category": "Uncategorized", "date": "Tuesday", "id": 2, "sorter": 2 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
