@@ -2,7 +2,7 @@
   "notes": [
     { "title": "Note_1", "content": "Content_1", "category": "Uncategorized", "date": "Monday", "id": "1", "sorter": 1 },
     { "title": "Note_2", "content": "Content_2", "category": "Uncategorized", "date": "Tuesday", "id": "2", "sorter": 2 },
-    { "title": "Note_3", "content": "Content_3", "category": "Uncategorized", "date": "Wednesday", "id": "3", "sorter": 3 }
+    //{ "title": "Note_3", "content": "Content_3", "category": "Uncategorized", "date": "Wednesday", "id": "3", "sorter": 3 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
